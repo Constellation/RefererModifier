@@ -4,5 +4,5 @@
    "name": "RefererModifier",
    "permissions": [ "http://*/*", "https://*/*", "experimental" ],
    "version": "0.0.1",
-   "update_url": "http://github.s3.amazonaws.com/downloads/Constellation/RefererModifier/updates.xml"
+   "update_url": "http://github.com/downloads/Constellation/RefererModifier/updates.xml"
 }
